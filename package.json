@@ -2,5 +2,10 @@
   "name": "nature-inicio",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://cahmoraes.github.io/nature/",
+  "scripts": {
+    "deploy": "gh-pages"
+  },
+  "devDependencies": {}
 }
