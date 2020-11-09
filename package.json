@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://cahmoraes.github.io/nature/",
   "scripts": {
     "deploy": "gh-pages"
   },
